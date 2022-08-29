@@ -1,0 +1,288 @@
+body {
+    background-color: rgb(216, 216, 215);
+}
+
+h2 {
+    margin-left: 46%;
+}
+
+h5 {
+    margin-left: 40.5%;
+    margin-top: -1%;
+}
+
+#one h5 {
+    color: white;
+    margin-left: 10%;
+}
+
+#one {
+    margin-left: 51%;
+    margin-top: -2.5%;
+    background-color: black;
+    width: 5%;
+}
+
+#image1 img {
+    width: 100%;
+    height: 200px;
+}
+
+#image1 {
+    width: 47%;
+    margin-left: 15%;
+}
+
+#second img {
+    width: 20%;
+    height: 170px;
+    margin-left: 64%;
+}
+
+#second {
+    margin-top: -24.3%;
+}
+
+span {
+    color: rgb(145, 144, 144);
+}
+
+#first {
+    background-color: white;
+    margin-top: -1.5%;
+    width: 44.5%;
+    margin-left: 15%;
+    font-size: 11px;
+    padding-left: 1.5%;
+    padding-right: 1%;
+}
+
+h4 {
+    padding-top: 1%;
+}
+
+button {
+    height: 30px;
+    background-color: white;
+    font-size: 10px;
+    margin-bottom: 4%;
+}
+
+#pragraph {
+    margin-left: 87%;
+    margin-top: -7%;
+    margin-bottom: 4%;
+}
+
+#two {
+    background-color: black;
+    width: 2%;
+    padding-left: 1.3%;
+    margin-left: 95.5%;
+    margin-top: -6%;
+    color: white;
+}
+
+#third {
+    width: 19%;
+    background-color: white;
+    margin-left: 64%;
+    margin-top: -1.5%;
+    padding-left: 1%;
+    font-size: 12px;
+}
+
+#image2 img {
+    width: 100%;
+    height: 200px;
+    margin-top: 17%;
+}
+
+#image2 {
+    width: 47%;
+    margin-left: 15%;
+}
+
+#pragraph2 {
+    margin-left: 87%;
+    margin-top: -7%;
+    margin-bottom: 4%;
+}
+
+#two_1 {
+    background-color: black;
+    width: 2%;
+    padding-left: 1.3%;
+    margin-left: 95.5%;
+    margin-top: -6.5%;
+    color: white;
+    border-radius: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#four {
+    background-color: white;
+    margin-top: -1.5%;
+    width: 44.5%;
+    margin-left: 15%;
+    font-size: 11px;
+    padding-left: 1.5%;
+    padding-right: 1%;
+}
+
+#fife_1 {
+    background-color: rgb(202, 204, 203);
+    width: 19%;
+    height: 43px;
+    margin-left: 64%;
+    margin-top: -31.5%;
+    padding-top: 0.5px;
+    padding-left: 1%;
+    padding-bottom: 1px;
+    font-size: 12px;
+}
+
+#pic1 {
+    background-color: white;
+    margin-left: 64%;
+    width: 20%;
+    height: 54px;
+}
+
+#pic1 img {
+    width: 20%;
+    height: 44px;
+    padding-top: 5px;
+    padding-left: 5%;
+}
+
+#pic1 p {
+    margin-left: 30%;
+    font-size: 11px;
+}
+
+#pic_p {
+    margin-top: -16%;
+}
+
+#pic2 {
+    background-color: white;
+    margin-left: 64%;
+    width: 20%;
+    height: 54px;
+}
+
+#pic2 img {
+    width: 20%;
+    height: 44px;
+    padding-top: 5px;
+    padding-left: 5%;
+}
+
+#pic2 p {
+    margin-left: 30%;
+    font-size: 11px;
+}
+
+#pic_p2 {
+    margin-top: -16%;
+}
+
+#pic3 {
+    background-color: white;
+    margin-left: 64%;
+    width: 20%;
+    height: 54px;
+}
+
+#pic3 img {
+    width: 20%;
+    height: 44px;
+    padding-top: 5px;
+    padding-left: 5%;
+}
+
+#pic3 p {
+    margin-left: 30%;
+    font-size: 11px;
+}
+
+#pic_p3 {
+    margin-top: -16%;
+}
+
+#pic4 {
+    background-color: white;
+    margin-left: 64%;
+    width: 20%;
+    height: 54px;
+}
+
+#pic4 img {
+    width: 20%;
+    height: 44px;
+    padding-top: 5px;
+    padding-left: 5%;
+}
+
+#pic4 p {
+    margin-left: 30%;
+    font-size: 11px;
+}
+
+#pic_p4 {
+    margin-top: -16%;
+}
+
+#line {
+    width: 1px;
+    height: 1px;
+}
+
+#line2 {
+    width: 1px;
+    height: 1px;
+}
+
+#line3 {
+    width: 1px;
+    height: 1px;
+}
+
+#last_1 {
+    background-color: rgb(202, 204, 203);
+    width: 19%;
+    height: 43px;
+    margin-left: 64%;
+    margin-top: 1.5%;
+    padding-top: 0.5px;
+    padding-left: 1%;
+    font-size: 12px;
+}
+
+#last_2 {
+    width: 19%;
+    background-color: white;
+    margin-left: 64%;
+    padding-left: 1%;
+    font-size: 12px;
+}
+
+#last_2 button{
+    border-style: none;
+    background-color: rgb(232, 230, 230);
+    color: black;
+    height: 20px;
+    margin-top: 10px;
+}
+
+#last_2 #diff{
+    border-style: none;
+    background-color: black;
+    color: white;
+    height: 20px;
+    margin-top: 10px;
+}
+
+
